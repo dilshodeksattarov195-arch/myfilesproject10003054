@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpncrypt",
+        "uuid": 1798806,
+        "checksum": "s9k2x2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
